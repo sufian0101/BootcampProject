@@ -132,7 +132,7 @@ def _seed_cohorts_and_demo_accounts(connection):
     # the program, so both dashboards have something meaningful to show.
     demo_admin = {
         "name": "Program Admin", "email": "admin@skillsdeveloper.org",
-        "password": "admin123", "role": "admin", "track": None,
+        "password": "admin12345", "role": "admin", "track": None,
         "cohort_id": None, "completed_modules": 0,
     }
     demo_learners = [
