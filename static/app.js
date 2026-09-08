@@ -231,7 +231,7 @@ function renderLanding() {
       <button class="btn-sm btn-ghost btn" data-action="go-auth" data-role="learner" data-mode="login" style="border-color:rgba(247,245,240,0.3);">Learner login</button>
       <div style="display:flex; flex-direction:column; align-items:flex-start; gap:8px;">
         <button class="btn-sm btn-ghost btn" data-action="go-auth" data-role="admin" data-mode="login" style="border-color:rgba(247,245,240,0.3);">Admin login</button>
-        <div class="eyebrow">Made By Sufian Shaikh</div>
+        <!-- <div class="eyebrow">Made By Sufian Shaikh</div> -->
       </div>
     </div>
   </div></footer>`;
